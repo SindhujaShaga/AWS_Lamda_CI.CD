@@ -1,4 +1,4 @@
-explain me this code...name: Deploy Lambda Function
+name: Deploy Lambda Function
 
 on:
   push:
